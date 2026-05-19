@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ankit Kumar Suman, a passionate Computer Science Engineering (B.Tech) student with a deep interest in building creative digital solutions.<br><br>🚀 I'm currently sharpening my skills in Android Development (Kotlin) and Web Technologies. **I love turning complex logic into smooth, user-friendly applications**.
+👋 Hi, I'm Ankit Kumar Suman, a passionate Computer Science Engineering (B.Tech) student with a deep interest in building creative digital solutions.<br><br>🚀 I'm currently sharpening my skills in Android Development (Kotlin) and Web Technologies. I love turning complex logic into smooth, user-friendly applications.
 
 
 ## 🌐 Socials:
